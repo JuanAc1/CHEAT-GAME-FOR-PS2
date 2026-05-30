@@ -12,7 +12,7 @@ Compiling
 If you have Docker installed, it's easiest to compile Cheat Device using my docker image:
 
 Unix
-./docker-make [args...]
+./docker-make.args
 Windows Command Prompt
 docker-make.bat [args...]
 Windows PowerShell
